@@ -46,3 +46,21 @@ Because `Spring Boot` already has `Tomcat` embeeded, you can now run the project
 Running on local, you can refer to the following link:
 
 > http://localhost:8080/machine/grid
+
+## Considerations
+
+I did not control the delay with the AJAX requests. This can make some constraints.
+
+I did not implement to export to a file. The information was not clear about what should be exported.
+
+As infinite, I considered that the machine can move without not border limits. This means that when it reachs one extreme, next step will appear in the opposite one.
+
+## HowTo
+
+In order to play:
+
+- Drag the machine in any cell on the grid.
+
+- Define how many steps you want the machine to move.
+
+- Start the automation.
