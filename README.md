@@ -33,7 +33,7 @@ Implemented in `Java` and `Spring Boot` to:
 - Use the component `@Service` to delegate the responsability of the logic to this layer.
 - Use models to parse the JSON objects.
 
-## Installation
+## Installation
 
 Once the project is pulled in your computer, you can proceed to import it in __Eclipse__.
 
