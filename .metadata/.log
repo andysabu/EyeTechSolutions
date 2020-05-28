@@ -1,0 +1,442 @@
+!SESSION 2020-05-28 04:38:21.406 -----------------------------------------------
+eclipse.buildId=4.5.1.202001211336-RELEASE
+java.version=1.8.0_102
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=es_ES
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/asanzbuezo/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -data /Users/asanzbuezo/workspace/repository/GitHub/EyeTechSolutions -product org.springframework.boot.ide.branding.sts4 -keyring /Users/asanzbuezo/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2020-05-28 04:38:26.250
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.jface 2 0 2020-05-28 04:38:28.588
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-05-28 04:38:28.588
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5d93ff21,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@51fb5fe6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.ui 2 2 2020-05-28 04:38:58.578
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2020-05-28 04:38:59.763 -----------------------------------------------
+eclipse.buildId=4.5.1.202001211336-RELEASE
+java.version=1.8.0_102
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=es_ES
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/asanzbuezo/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -data file:/Users/asanzbuezo/workspace/repository/GitHub/EyeTechSolutions/ -product org.springframework.boot.ide.branding.sts4 -keyring /Users/asanzbuezo/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2020-05-28 04:39:04.498
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.jface 2 0 2020-05-28 04:39:06.384
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-05-28 04:39:06.384
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7b7e4b20,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5ac0bf84,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.ui 2 2 2020-05-28 04:42:03.436
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:42:21.785
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:42:21.785
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@3811464b[org.springframework.tooling.boot.ls:1.15.0.202001210741(id=625)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:42:21.787
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:42:21.849
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:42:24.417
+!MESSAGE Boot LS startup time from start to initialized: 2612ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:42:24.464
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.CVIVEBgBisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:42:24.469
+!MESSAGE subscribing to classpath changes: sts4.classpath.CVIVEBgB isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:42:24.472
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:42:24.477
+!MESSAGE subsribers = {sts4.classpath.CVIVEBgB=Send Classpath Notifications(149)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:42:24.478
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:42:24.479
+!MESSAGE project GridMachine ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:42:24.479
+!MESSAGE project backendninja ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:42:24.480
+!MESSAGE Preparing classpath changed notification GridMachine
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:42:24.480
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:42:24.480
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.CVIVEBgB => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:42:24.481
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:42:24.489
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:42:24.490
+!MESSAGE buffering callback sts4.classpath.CVIVEBgB GridMachine false 82
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:42:24.491
+!MESSAGE Preparing classpath changed notification backendninja
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:42:24.491
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:42:24.494
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:42:24.496
+!MESSAGE buffering callback sts4.classpath.CVIVEBgB backendninja false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:42:24.496
+!MESSAGE executing callback sts4.classpath.CVIVEBgB 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:42:24.590
+!MESSAGE executing callback sts4.classpath.CVIVEBgB SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:44:28.832
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.CVIVEBgB
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:44:28.833
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.CVIVEBgB
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:44:28.834
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:44:28.835
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.CVIVEBgB => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:46:29.045
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:46:29.062
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@3811464b[org.springframework.tooling.boot.ls:1.15.0.202001210741(id=625)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:46:29.063
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:46:31.313
+!MESSAGE Boot LS startup time from start to initialized: 2248ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:46:31.349
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.yKBsqEJbisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:46:31.351
+!MESSAGE subscribing to classpath changes: sts4.classpath.yKBsqEJb isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:46:31.351
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:46:31.352
+!MESSAGE subsribers = {sts4.classpath.yKBsqEJb=Send Classpath Notifications(265)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:46:31.352
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:46:31.353
+!MESSAGE project GridMachine ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:46:31.354
+!MESSAGE project backendninja ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:46:31.354
+!MESSAGE project backendninja SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:46:31.355
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:46:31.355
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.yKBsqEJb => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:46:31.358
+!MESSAGE Preparing classpath changed notification GridMachine
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:46:31.359
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:46:31.363
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:46:31.364
+!MESSAGE buffering callback sts4.classpath.yKBsqEJb GridMachine false 82
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:46:31.365
+!MESSAGE executing callback sts4.classpath.yKBsqEJb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:46:31.437
+!MESSAGE executing callback sts4.classpath.yKBsqEJb SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:50:10.651
+!MESSAGE Preparing classpath changed notification backendninja
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:50:10.656
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:50:10.658
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:50:10.660
+!MESSAGE buffering callback sts4.classpath.yKBsqEJb backendninja false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:50:10.660
+!MESSAGE executing callback sts4.classpath.yKBsqEJb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:50:10.680
+!MESSAGE executing callback sts4.classpath.yKBsqEJb SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:53:14.635
+!MESSAGE Preparing classpath changed notification backendninja
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:53:14.639
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:53:14.640
+!MESSAGE buffering callback sts4.classpath.yKBsqEJb backendninja true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:53:14.640
+!MESSAGE executing callback sts4.classpath.yKBsqEJb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:53:14.655
+!MESSAGE executing callback sts4.classpath.yKBsqEJb SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-05-28 04:53:14.878
+!MESSAGE Launch configuration backendninja - BackendninjaApplication at file:/Users/asanzbuezo/workspace/repository/GitHub/EyeTechSolutions/.metadata/.plugins/org.eclipse.debug.core/.launches/backendninja%20-%20BackendninjaApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration backendninja - BackendninjaApplication at file:/Users/asanzbuezo/workspace/repository/GitHub/EyeTechSolutions/.metadata/.plugins/org.eclipse.debug.core/.launches/backendninja%20-%20BackendninjaApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:886)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1381)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:489)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:644)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:124)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:116)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-05-28 04:53:14.879
+!MESSAGE Launch configuration backendninja - BackendninjaApplication at file:/Users/asanzbuezo/workspace/repository/GitHub/EyeTechSolutions/.metadata/.plugins/org.eclipse.debug.core/.launches/backendninja%20-%20BackendninjaApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-05-28 04:53:14.881
+!MESSAGE Launch configuration backendninja - BackendninjaApplication at file:/Users/asanzbuezo/workspace/repository/GitHub/EyeTechSolutions/.metadata/.plugins/org.eclipse.debug.core/.launches/backendninja%20-%20BackendninjaApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration backendninja - BackendninjaApplication at file:/Users/asanzbuezo/workspace/repository/GitHub/EyeTechSolutions/.metadata/.plugins/org.eclipse.debug.core/.launches/backendninja%20-%20BackendninjaApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:886)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1381)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:489)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:644)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:124)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:116)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-05-28 04:53:14.881
+!MESSAGE Launch configuration backendninja - BackendninjaApplication at file:/Users/asanzbuezo/workspace/repository/GitHub/EyeTechSolutions/.metadata/.plugins/org.eclipse.debug.core/.launches/backendninja%20-%20BackendninjaApplication.launch does not exist.
+
+!ENTRY Activator 4 0 2020-05-28 04:53:15.138
+!MESSAGE DebugException: Launch configuration backendninja - BackendninjaApplication at file:/Users/asanzbuezo/workspace/repository/GitHub/EyeTechSolutions/.metadata/.plugins/org.eclipse.debug.core/.launches/backendninja%20-%20BackendninjaApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration backendninja - BackendninjaApplication at file:/Users/asanzbuezo/workspace/repository/GitHub/EyeTechSolutions/.metadata/.plugins/org.eclipse.debug.core/.launches/backendninja%20-%20BackendninjaApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:886)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1381)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:489)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getAttribute(LaunchConfiguration.java:440)
+	at org.springframework.ide.eclipse.boot.dash.cloudfoundry.DevtoolsUtil.getAttribute(DevtoolsUtil.java:232)
+	at org.springframework.ide.eclipse.boot.dash.cloudfoundry.DevtoolsUtil.getElement(DevtoolsUtil.java:197)
+	at org.springframework.ide.eclipse.boot.dash.cloudfoundry.DevtoolsUtil.getElement(DevtoolsUtil.java:212)
+	at org.springframework.ide.eclipse.boot.dash.cloudfoundry.DevtoolsUtil$1.handleStateChange(DevtoolsUtil.java:259)
+	at org.springframework.ide.eclipse.boot.dash.cloudfoundry.DevtoolsUtil$1.processTerminated(DevtoolsUtil.java:252)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker.processTerminated(ProcessTracker.java:111)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker.handleDebugEvent(ProcessTracker.java:77)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker$1.handleDebugEvents(ProcessTracker.java:47)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.run(DebugPlugin.java:1194)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.dispatch(DebugPlugin.java:1228)
+	at org.eclipse.debug.core.DebugPlugin$EventDispatchJob.run(DebugPlugin.java:458)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-05-28 04:53:15.138
+!MESSAGE Launch configuration backendninja - BackendninjaApplication at file:/Users/asanzbuezo/workspace/repository/GitHub/EyeTechSolutions/.metadata/.plugins/org.eclipse.debug.core/.launches/backendninja%20-%20BackendninjaApplication.launch does not exist.
+
+!ENTRY Activator 4 0 2020-05-28 04:53:15.139
+!MESSAGE DebugException: Launch configuration backendninja - BackendninjaApplication at file:/Users/asanzbuezo/workspace/repository/GitHub/EyeTechSolutions/.metadata/.plugins/org.eclipse.debug.core/.launches/backendninja%20-%20BackendninjaApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration backendninja - BackendninjaApplication at file:/Users/asanzbuezo/workspace/repository/GitHub/EyeTechSolutions/.metadata/.plugins/org.eclipse.debug.core/.launches/backendninja%20-%20BackendninjaApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:886)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1381)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:489)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getAttribute(LaunchConfiguration.java:440)
+	at org.springframework.ide.eclipse.boot.dash.cloudfoundry.DevtoolsUtil.getAttribute(DevtoolsUtil.java:232)
+	at org.springframework.ide.eclipse.boot.dash.cloudfoundry.DevtoolsUtil.getElement(DevtoolsUtil.java:198)
+	at org.springframework.ide.eclipse.boot.dash.cloudfoundry.DevtoolsUtil.getElement(DevtoolsUtil.java:212)
+	at org.springframework.ide.eclipse.boot.dash.cloudfoundry.DevtoolsUtil$1.handleStateChange(DevtoolsUtil.java:259)
+	at org.springframework.ide.eclipse.boot.dash.cloudfoundry.DevtoolsUtil$1.processTerminated(DevtoolsUtil.java:252)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker.processTerminated(ProcessTracker.java:111)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker.handleDebugEvent(ProcessTracker.java:77)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker$1.handleDebugEvents(ProcessTracker.java:47)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.run(DebugPlugin.java:1194)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.dispatch(DebugPlugin.java:1228)
+	at org.eclipse.debug.core.DebugPlugin$EventDispatchJob.run(DebugPlugin.java:458)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-05-28 04:53:15.139
+!MESSAGE Launch configuration backendninja - BackendninjaApplication at file:/Users/asanzbuezo/workspace/repository/GitHub/EyeTechSolutions/.metadata/.plugins/org.eclipse.debug.core/.launches/backendninja%20-%20BackendninjaApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-05-28 04:53:15.142
+!MESSAGE Launch configuration backendninja - BackendninjaApplication at file:/Users/asanzbuezo/workspace/repository/GitHub/EyeTechSolutions/.metadata/.plugins/org.eclipse.debug.core/.launches/backendninja%20-%20BackendninjaApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration backendninja - BackendninjaApplication at file:/Users/asanzbuezo/workspace/repository/GitHub/EyeTechSolutions/.metadata/.plugins/org.eclipse.debug.core/.launches/backendninja%20-%20BackendninjaApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:886)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1381)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:489)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:644)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:124)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.disconnect(ConsoleLineNotifier.java:72)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$CompiledPatternMatchListener.dispose(ConsolePatternMatcher.java:198)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher.disconnect(ConsolePatternMatcher.java:260)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:164)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-05-28 04:53:15.142
+!MESSAGE Launch configuration backendninja - BackendninjaApplication at file:/Users/asanzbuezo/workspace/repository/GitHub/EyeTechSolutions/.metadata/.plugins/org.eclipse.debug.core/.launches/backendninja%20-%20BackendninjaApplication.launch does not exist.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:53:27.832
+!MESSAGE Preparing classpath changed notification backendninja
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:53:27.832
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:53:27.834
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:53:27.835
+!MESSAGE buffering callback sts4.classpath.yKBsqEJb backendninja false 22
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:53:27.835
+!MESSAGE executing callback sts4.classpath.yKBsqEJb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:53:27.842
+!MESSAGE executing callback sts4.classpath.yKBsqEJb SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:53:29.094
+!MESSAGE Preparing classpath changed notification backendninja
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:53:29.096
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:53:29.098
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:53:29.099
+!MESSAGE buffering callback sts4.classpath.yKBsqEJb backendninja false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:53:29.099
+!MESSAGE executing callback sts4.classpath.yKBsqEJb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:53:29.108
+!MESSAGE executing callback sts4.classpath.yKBsqEJb SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:54:00.685
+!MESSAGE Preparing classpath changed notification GridMachine
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:54:00.691
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:54:00.691
+!MESSAGE buffering callback sts4.classpath.yKBsqEJb GridMachine true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:54:00.692
+!MESSAGE executing callback sts4.classpath.yKBsqEJb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:54:00.714
+!MESSAGE executing callback sts4.classpath.yKBsqEJb SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:54:07.634
+!MESSAGE Preparing classpath changed notification GridMachine
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:54:07.635
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:54:07.647
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:54:07.648
+!MESSAGE buffering callback sts4.classpath.yKBsqEJb GridMachine false 22
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:54:07.648
+!MESSAGE Preparing classpath changed notification backendninja
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:54:07.650
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:54:07.650
+!MESSAGE buffering callback sts4.classpath.yKBsqEJb backendninja true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:54:07.651
+!MESSAGE executing callback sts4.classpath.yKBsqEJb 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:54:07.658
+!MESSAGE executing callback sts4.classpath.yKBsqEJb SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:54:08.830
+!MESSAGE Preparing classpath changed notification GridMachine
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:54:08.831
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:54:08.833
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:54:08.853
+!MESSAGE buffering callback sts4.classpath.yKBsqEJb GridMachine false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:54:08.854
+!MESSAGE executing callback sts4.classpath.yKBsqEJb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-28 04:54:08.859
+!MESSAGE executing callback sts4.classpath.yKBsqEJb SUCCESS [done]

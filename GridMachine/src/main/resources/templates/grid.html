@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Machine on grid</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="board">
+            <div class="grid">
+                <div class="cell" coord-y="0" coord-x="0" id="y0x0"></div>
+                <div class="cell" coord-y="0" coord-x="1" id="y0x1"></div>
+                <div class="cell" coord-y="0" coord-x="2" id="y0x2"></div>
+                <div class="cell" coord-y="0" coord-x="3" id="y0x3"></div>
+                <div class="cell" coord-y="1" coord-x="0" id="y1x0"></div>
+                <div class="cell" coord-y="1" coord-x="1" id="y1x1"></div>
+                <div class="cell" coord-y="1" coord-x="2" id="y1x2"></div>
+                <div class="cell" coord-y="1" coord-x="3" id="y1x3"></div>
+                <div class="cell" coord-y="2" coord-x="0" id="y2x0"></div>
+                <div class="cell" coord-y="2" coord-x="1" id="y2x1"></div>
+                <div class="cell" coord-y="2" coord-x="2" id="y2x2"></div>
+                <div class="cell" coord-y="2" coord-x="3" id="y2x3"></div>
+                <div class="cell" coord-y="3" coord-x="0" id="y3x0"></div>
+                <div class="cell" coord-y="3" coord-x="1" id="y3x1"></div>
+                <div class="cell" coord-y="3" coord-x="2" id="y3x2"></div>
+                <div class="cell" coord-y="3" coord-x="3" id="y3x3"></div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <form action="#" method="post" id="start">
+            <label for="steps">Steps:</label>
+            <input type="number" name="steps" id="steps" value="5"><br>
+            <button type="submit" name="submit">Start!</button>
+        </form>
+        <div class="hangar">
+            <h3>Hangar</h3>
+            <img id="vehicle" class="vehicle" draggable="true" src="/imgs/vehicles/jet.png" alt="jet">
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.4.1.js"
+        integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
+    <script src="/scripts/script.js"></script>
+
+</body>
+<!-- <link rel="stylesheet" href="/css/style.css" media="screen" type="text/css" /> -->
+</html>

@@ -1,0 +1,52 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 100px);
+    grid-template-rows: repeat(4, 100px);
+    grid-gap: 1px;
+}
+
+.cell {
+    /* center the cell content */
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-weight: bold;
+    background: white;
+    border: 1px solid black;
+}
+
+.hangar {
+    text-align: center;
+    margin-top: 3rem;
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+form {
+    position: absolute;
+}
+
+.vehicle {
+    transform: rotate(90deg);
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+
+.trinket, .trinket-placeholder {
+    width: 100px;
+    height: 100px;
+    
+    /* the animation */
+    transition: all 5s;
+    
+    /* we need relative positions for the position transitions */
+    position: relative;
+}
